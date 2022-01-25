@@ -1,4 +1,4 @@
-namespace _2_DependencyInjection;
+namespace dependencyInjection;
 
 public class WeatherForecast
 {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rs85W0hPB1dRDjuJxv1nKiJCB4nGS65iLi9HKLsDrQlM1EDqytNXDdG/g/cNVGcqcIt+8ioY+G7Kr1NVYY+DSQ==",
+  "dgSpecHash": "XFzbU7xSvpI4bu2jMuKVLebZSWvt4ntW78wmzfDNKvNfjK6mbmygjI0L1tyhDbNd5KJCCklriYEKjR7rlN5OMQ==",
   "success": true,
-  "projectFilePath": "/Users/ksalgado/Documents/Scripts/Personal/asp.net-core/2-DependencyInjection/2-DependencyInjection.csproj",
+  "projectFilePath": "/Users/ksalgado/Documents/Scripts/Personal/asp.net-core/2-DependencyInjection/dependencyInjection/dependencyInjection.csproj",
   "expectedPackageFiles": [
     "/Users/ksalgado/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/Users/ksalgado/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ksalgado/Documents/Scripts/Personal/asp.net-core/2-DependencyInjection/2-DependencyInjection.csproj": {}
+    "/Users/ksalgado/Documents/Scripts/Personal/asp.net-core/2-DependencyInjection/dependencyInjection/dependencyInjection.csproj": {}
   },
   "projects": {
-    "/Users/ksalgado/Documents/Scripts/Personal/asp.net-core/2-DependencyInjection/2-DependencyInjection.csproj": {
+    "/Users/ksalgado/Documents/Scripts/Personal/asp.net-core/2-DependencyInjection/dependencyInjection/dependencyInjection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ksalgado/Documents/Scripts/Personal/asp.net-core/2-DependencyInjection/2-DependencyInjection.csproj",
-        "projectName": "2-DependencyInjection",
-        "projectPath": "/Users/ksalgado/Documents/Scripts/Personal/asp.net-core/2-DependencyInjection/2-DependencyInjection.csproj",
+        "projectUniqueName": "/Users/ksalgado/Documents/Scripts/Personal/asp.net-core/2-DependencyInjection/dependencyInjection/dependencyInjection.csproj",
+        "projectName": "dependencyInjection",
+        "projectPath": "/Users/ksalgado/Documents/Scripts/Personal/asp.net-core/2-DependencyInjection/dependencyInjection/dependencyInjection.csproj",
         "packagesPath": "/Users/ksalgado/.nuget/packages/",
-        "outputPath": "/Users/ksalgado/Documents/Scripts/Personal/asp.net-core/2-DependencyInjection/obj/",
+        "outputPath": "/Users/ksalgado/Documents/Scripts/Personal/asp.net-core/2-DependencyInjection/dependencyInjection/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
